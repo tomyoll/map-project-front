@@ -8,7 +8,6 @@
 .idea
 yarn.lock
 package-lock.json
-.env
 
 # testing
 /coverage
